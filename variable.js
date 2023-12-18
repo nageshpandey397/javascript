@@ -45,3 +45,11 @@ let ai=99;console.log(ai);
     let ai=1000;
     console.log(ai);
 }
+
+const student={
+    fulName : "Nagesh Pandey",
+    age :22,
+    cgpa:7.8,
+    isPass:true
+};
+
